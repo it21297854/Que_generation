@@ -1,0 +1,74 @@
+[
+    {
+        "Question": "What is one of the top tips for effective revision according to the text?",
+        "options": [
+            "Leave revision until the last minute",
+            "Rewrite your notes",
+            "Memorize everything",
+            "Ignore classmates"
+        ],
+        "correct_answer": "Rewrite your notes"
+    },
+    {
+        "Question": "How long does Anna spend on revision daily?",
+        "options": [
+            "One hour",
+            "Half an hour",
+            "Two hours",
+            "Fifteen minutes"
+        ],
+        "correct_answer": "Half an hour"
+    },
+    {
+        "Question": "What is a benefit of revising with a classmate?",
+        "options": [
+            "You can avoid mistakes",
+            "You can memorize everything",
+            "You can discuss mistakes",
+            "You can skip revision"
+        ],
+        "correct_answer": "You can discuss mistakes"
+    },
+    {
+        "Question": "What should you avoid doing during revision?",
+        "options": [
+            "Making a timetable",
+            "Memorizing everything",
+            "Revising with classmates",
+            "Listening in class"
+        ],
+        "correct_answer": "Memorizing everything"
+    },
+    {
+        "Question": "What is suggested to do with your notes?",
+        "options": [
+            "Ignore them",
+            "Rewrite them",
+            "Throw them away",
+            "Memorize them"
+        ],
+        "correct_answer": "Rewrite them"
+    },
+    {
+        "Question": "Why is it important to plan your revision?",
+        "Answer": "Planning your revision is important because it helps you organize your study time effectively, ensuring that you cover all necessary topics and avoid last-minute cramming."
+    },
+    {
+        "Question": "How can revising with a classmate be beneficial?",
+        "Answer": "Revising with a classmate can be beneficial because it allows you to discuss and understand mistakes, learn from each other, and reinforce your knowledge through collaboration."
+    },
+    {
+        "Question": "It's time to revise! Here are some of our top tips. You need to think carefully about effective ways to revise. Don't leave revision until the <blank> minute. Hopefully you've been listening in class and taking <blank>.",
+        "Blanks": [
+            "last",
+            "notes"
+        ]
+    },
+    {
+        "Question": "Anna revises daily \u2013 spending at least half an hour on different areas of language. Let's hear from another <blank>. Well, the thing that always works for me is when I revise with a <blank>, so we revise together.",
+        "Blanks": [
+            "student",
+            "classmate"
+        ]
+    }
+]

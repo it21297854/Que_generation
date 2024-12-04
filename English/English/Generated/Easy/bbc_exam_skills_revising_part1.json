@@ -1,0 +1,54 @@
+[
+    {
+        "Question": "What is one of the top tips for effective revision mentioned in the text?",
+        "options": [
+            "Leave revision until the last minute",
+            "Rewrite notes and use them",
+            "Memorize everything",
+            "Avoid making a timetable"
+        ],
+        "correct_answer": "Rewrite notes and use them"
+    },
+    {
+        "Question": "How long does Anna spend on revision each day?",
+        "options": [
+            "One hour",
+            "Half an hour",
+            "Two hours",
+            "Fifteen minutes"
+        ],
+        "correct_answer": "Half an hour"
+    },
+    {
+        "Question": "What is a benefit of revising with a classmate according to Student 2?",
+        "options": [
+            "It helps to memorize everything",
+            "It allows for more time to revise",
+            "It helps to discuss mistakes and errors",
+            "It reduces the need for a timetable"
+        ],
+        "correct_answer": "It helps to discuss mistakes and errors"
+    },
+    {
+        "Question": "Why is it important not to leave revision until the last minute?",
+        "Answer": "Leaving revision until the last minute can lead to stress and insufficient preparation. By starting early, you have more time to understand and retain the material, leading to better performance in exams."
+    },
+    {
+        "Question": "What are some activities Anna includes in her daily revision routine?",
+        "Answer": "Anna includes listening, reading, vocabulary, and speaking in her daily revision routine. She spends at least half an hour each day focusing on these different areas of language."
+    },
+    {
+        "Question": "When revising, it's important to make a <blank> and stick to it. Revising with classmates and discussing <blank> is another effective strategy.",
+        "Blanks": [
+            "timetable",
+            "mistakes"
+        ]
+    },
+    {
+        "Question": "Anna revises daily, spending at least <blank> an hour on different areas of language such as <blank>, reading, vocabulary, and speaking.",
+        "Blanks": [
+            "half",
+            "listening"
+        ]
+    }
+]

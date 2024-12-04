@@ -1,0 +1,85 @@
+[
+    {
+        "Question": "Which of the following sentences uses the correct form of the verb 'to be' in the past tense?",
+        "options": [
+            "She were happy yesterday.",
+            "They was at the park.",
+            "He were playing football.",
+            "I was reading a book."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "Question": "Which sentence correctly uses a comparative adjective?",
+        "options": [
+            "This is the most beautifulest painting.",
+            "She is more taller than her brother.",
+            "This cake is sweeter than the last one.",
+            "He is the most fastest runner."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Identify the sentence with the correct subject-verb agreement.",
+        "options": [
+            "The group of students are going on a trip.",
+            "Neither of the answers is correct.",
+            "Each of the players have a unique skill.",
+            "The team were winning the match."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which of the following sentences uses an appropriate transition word?",
+        "options": [
+            "I was tired. However, I went to bed early.",
+            "She was hungry. Therefore, she skipped lunch.",
+            "He was late. Because he left early.",
+            "They were cold. So, they wore shorts."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "Question": "Which sentence uses the correct form of the pronoun?",
+        "options": [
+            "Him and I went to the store.",
+            "She and me are best friends.",
+            "Her and I are planning a trip.",
+            "He and I will attend the meeting."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "Question": "Explain the difference between 'affect' and 'effect' and provide an example of each.",
+        "Answer": "The word 'affect' is primarily used as a verb meaning to influence or make a change in something. For example, 'The weather can affect your mood.' On the other hand, 'effect' is a noun that refers to the result or outcome of a change. For example, 'The effect of the new law was immediately noticeable.'"
+    },
+    {
+        "Question": "Describe the role of conjunctions in a sentence and give two examples.",
+        "Answer": "Conjunctions are words that connect clauses, sentences, or words. They help to create complex sentences and improve the flow of writing. Examples of conjunctions include 'and,' which connects similar ideas, and 'but,' which introduces a contrast. For instance, 'I wanted to go for a walk, but it started to rain.'"
+    },
+    {
+        "Question": "What is the importance of using proper punctuation in writing?",
+        "Answer": "Proper punctuation is crucial in writing as it helps to clarify meaning, indicate pauses, and separate ideas. It ensures that the reader understands the intended message and can follow the flow of the text. Without proper punctuation, sentences can become confusing and ambiguous."
+    },
+    {
+        "Question": "The <blank> of the story was so <blank> that it kept everyone on the edge of their seats.",
+        "Blanks": [
+            "plot",
+            "intriguing"
+        ]
+    },
+    {
+        "Question": "She <blank> her keys on the table and <blank> out of the room.",
+        "Blanks": [
+            "placed",
+            "walked"
+        ]
+    },
+    {
+        "Question": "During the meeting, he <blank> his ideas clearly and <blank> everyone with his presentation.",
+        "Blanks": [
+            "expressed",
+            "impressed"
+        ]
+    }
+]

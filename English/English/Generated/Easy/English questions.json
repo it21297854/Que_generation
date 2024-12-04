@@ -1,0 +1,74 @@
+[
+    {
+        "Question": "Which of the following is a synonym for 'happy'?",
+        "options": [
+            "A. Sad",
+            "B. Joyful",
+            "C. Angry",
+            "D. Tired"
+        ],
+        "correct_answer": "B. Joyful"
+    },
+    {
+        "Question": "What is the opposite of 'cold'?",
+        "options": [
+            "A. Hot",
+            "B. Wet",
+            "C. Dry",
+            "D. Cool"
+        ],
+        "correct_answer": "A. Hot"
+    },
+    {
+        "Question": "Which word is a noun?",
+        "options": [
+            "A. Quickly",
+            "B. Happiness",
+            "C. Run",
+            "D. Blue"
+        ],
+        "correct_answer": "B. Happiness"
+    },
+    {
+        "Question": "Which of the following words is an adjective?",
+        "options": [
+            "A. Run",
+            "B. Beautiful",
+            "C. Quickly",
+            "D. Happiness"
+        ],
+        "correct_answer": "B. Beautiful"
+    },
+    {
+        "Question": "What is the past tense of 'go'?",
+        "options": [
+            "A. Goes",
+            "B. Gone",
+            "C. Went",
+            "D. Going"
+        ],
+        "correct_answer": "C. Went"
+    },
+    {
+        "Question": "Explain the importance of reading comprehension in learning a new language.",
+        "Answer": "Reading comprehension is crucial in learning a new language as it enhances vocabulary, improves understanding of grammar, and helps in grasping the context and nuances of the language. It also aids in developing critical thinking and analytical skills, which are essential for effective communication."
+    },
+    {
+        "Question": "Describe the role of adjectives in a sentence.",
+        "Answer": "Adjectives play a significant role in a sentence by providing more information about a noun or pronoun. They help to describe, identify, or quantify the noun, making the sentence more informative and interesting. Adjectives can indicate qualities such as size, color, shape, and more."
+    },
+    {
+        "Question": "The <blank> was so <blank> that everyone stopped to admire it.",
+        "Blanks": [
+            "sunset",
+            "beautiful"
+        ]
+    },
+    {
+        "Question": "She <blank> the book on the table and <blank> out of the room.",
+        "Blanks": [
+            "placed",
+            "walked"
+        ]
+    }
+]

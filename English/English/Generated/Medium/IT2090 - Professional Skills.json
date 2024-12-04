@@ -1,0 +1,96 @@
+[
+    {
+        "Question": "What is the primary purpose of a gap analysis in professional development planning?",
+        "options": [
+            "A. To identify the strengths of an individual",
+            "B. To compare the current and desired states of skills or knowledge",
+            "C. To evaluate the financial status of a company",
+            "D. To assess the market value of a product"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a quadrant of the Johari Window?",
+        "options": [
+            "A. Open Area",
+            "B. Blind Spot",
+            "C. Hidden Area",
+            "D. Secret Zone"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "Question": "According to Bruce Tuckman's team development stages, what is the first stage a team undergoes?",
+        "options": [
+            "A. Performing",
+            "B. Storming",
+            "C. Forming",
+            "D. Norming"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is the main advantage of using time-tracking software?",
+        "options": [
+            "A. It helps to increase the number of tasks",
+            "B. It provides a detailed analysis of time spent on activities",
+            "C. It reduces the need for team meetings",
+            "D. It automatically completes tasks for you"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which intellectual property right is most relevant for protecting a new method of sorting database records?",
+        "options": [
+            "A. Trademark",
+            "B. Patent",
+            "C. Copyright",
+            "D. Trade Secret"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Describe how gap analysis will help you in professional development planning.",
+        "Answer": "Gap analysis helps in professional development planning by identifying the difference between the current skills and the desired skills. It allows individuals to pinpoint areas that need improvement and create a structured plan to acquire the necessary skills or knowledge to reach their professional goals."
+    },
+    {
+        "Question": "Explain the purpose of the Johari Window.",
+        "Answer": "The Johari Window is a psychological tool used to help people understand their relationship with themselves and others. It consists of four quadrants: Open Area, Blind Spot, Hidden Area, and Unknown. The purpose is to improve self-awareness and interpersonal relationships by increasing the Open Area through feedback and self-disclosure."
+    },
+    {
+        "Question": "Describe the positive and negative impacts of e-learning.",
+        "Answer": "E-learning offers flexibility and accessibility, allowing students to learn at their own pace and from any location. However, it can also lead to feelings of isolation and requires strong self-discipline. Additionally, technical issues and lack of face-to-face interaction can hinder the learning experience."
+    },
+    {
+        "Question": "Is a retail shop owner an entrepreneur? Justify your answer.",
+        "Answer": "A retail shop owner can be considered an entrepreneur if they are involved in the creation and management of the business, taking on financial risks to innovate or improve their business model. Entrepreneurship involves more than just owning a business; it requires a proactive approach to business growth and development."
+    },
+    {
+        "Question": "The four quadrants of the Johari Window are <blank>, <blank>, Hidden Area, and Unknown.",
+        "Blanks": [
+            "Open Area",
+            "Blind Spot"
+        ]
+    },
+    {
+        "Question": "According to Bruce Tuckman's team development stages, teams go through the stages of Forming, <blank>, Norming, and <blank>.",
+        "Blanks": [
+            "Storming",
+            "Performing"
+        ]
+    },
+    {
+        "Question": "During the COVID-19 pandemic, the computing landscape helped in areas such as remote work, <blank>, and <blank>.",
+        "Blanks": [
+            "telemedicine",
+            "online education"
+        ]
+    },
+    {
+        "Question": "Time management can be improved by using tools like the <blank> matrix, which helps prioritize tasks based on urgency and <blank>.",
+        "Blanks": [
+            "Eisenhower",
+            "importance"
+        ]
+    }
+]

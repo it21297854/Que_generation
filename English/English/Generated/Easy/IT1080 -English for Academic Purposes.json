@@ -1,0 +1,78 @@
+[
+    {
+        "Question": "What is the main purpose of InsAR technology in monitoring volcanoes?",
+        "options": [
+            "To measure the temperature of the volcano",
+            "To detect slight deformations in the ground",
+            "To capture images of volcanic eruptions",
+            "To predict the exact time of an eruption"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which of the following is a challenge faced by scientists in predicting volcanic eruptions?",
+        "options": [
+            "Lack of satellite technology",
+            "Frequent eruptions",
+            "Determining if unrest will lead to an eruption",
+            "Excessive public trust"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What percentage of the world's natural resources do cities consume according to the passage?",
+        "options": [
+            "50%",
+            "60%",
+            "75%",
+            "80%"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is the main goal of the Biophilic Cities Network?",
+        "options": [
+            "To increase urbanization",
+            "To reduce greenhouse gas emissions",
+            "To integrate nature into urban living",
+            "To promote industrial growth"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is a potential benefit of Work From Home (WFH) for employers?",
+        "options": [
+            "Increased commuting time",
+            "Higher operational expenses",
+            "Improved employee productivity",
+            "Reduced employee satisfaction"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Explain how InsAR technology helps in monitoring volcanic activity.",
+        "Answer": "InsAR technology helps in monitoring volcanic activity by detecting slight deformations in the ground caused by movements of molten rock beneath the surface. It uses satellite radar images to create interferograms, which show the direction and extent of ground deformation, providing valuable data for assessing volcanic unrest."
+    },
+    {
+        "Question": "What are the benefits of Work From Home (WFH) for employees?",
+        "Answer": "The benefits of Work From Home (WFH) for employees include reduced commuting time and expenses, greater flexibility in work location and hours, fewer distractions, and an improved work-life balance. These factors contribute to increased job satisfaction and productivity."
+    },
+    {
+        "Question": "Describe the impact of the COVID-19 pandemic on food systems in Sri Lanka.",
+        "Answer": "The COVID-19 pandemic impacted food systems in Sri Lanka by causing labor shortages due to mobility restrictions, affecting crop cultivation and food supply chain activities. This led to disruptions in food manufacturing processes and increased post-harvest losses, driving up food prices and affecting vulnerable groups."
+    },
+    {
+        "Question": "The concept of biophilia with reference to whole cities is a <blank> phenomenon. Cities are responsible for creating 75% of greenhouse gas emissions whilst consuming the same <blank> of the world's natural resources.",
+        "Blanks": [
+            "21st-century",
+            "proportion"
+        ]
+    },
+    {
+        "Question": "In 1904, the French psychologist Alfred Binet <blank> intelligence tests to help teachers in Paris schools. IQ tests were so easy to carry out that they <blank> all over the world as the main method of assessing brainpower.",
+        "Blanks": [
+            "developed",
+            "were used"
+        ]
+    }
+]

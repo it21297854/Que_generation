@@ -1,0 +1,74 @@
+[
+    {
+        "Question": "What is the main purpose of punctuation in a sentence?",
+        "options": [
+            "To make the sentence look longer",
+            "To clarify meaning",
+            "To confuse the reader",
+            "To add color to the text"
+        ],
+        "correct_answer": "To clarify meaning"
+    },
+    {
+        "Question": "Which of the following is a coordinating conjunction?",
+        "options": [
+            "Although",
+            "Because",
+            "And",
+            "If"
+        ],
+        "correct_answer": "And"
+    },
+    {
+        "Question": "What is the past tense of the verb 'go'?",
+        "options": [
+            "Goed",
+            "Went",
+            "Gone",
+            "Going"
+        ],
+        "correct_answer": "Went"
+    },
+    {
+        "Question": "Which of the following words is an adjective?",
+        "options": [
+            "Quickly",
+            "Happiness",
+            "Beautiful",
+            "Running"
+        ],
+        "correct_answer": "Beautiful"
+    },
+    {
+        "Question": "Which sentence is in the passive voice?",
+        "options": [
+            "The cat chased the mouse.",
+            "The mouse was chased by the cat.",
+            "The cat is chasing the mouse.",
+            "The mouse chases the cat."
+        ],
+        "correct_answer": "The mouse was chased by the cat."
+    },
+    {
+        "Question": "Explain the difference between a simile and a metaphor.",
+        "Answer": "A simile is a figure of speech that compares two different things using the words 'like' or 'as', such as 'as brave as a lion'. A metaphor, on the other hand, directly states a comparison without using 'like' or 'as', for example, 'He is a lion in battle'."
+    },
+    {
+        "Question": "What is the role of a thesis statement in an essay?",
+        "Answer": "A thesis statement is a sentence that summarizes the main point or claim of an essay. It is typically found at the end of the introduction and guides the direction of the essay by informing the reader of the central argument or focus."
+    },
+    {
+        "Question": "The <blank> is the part of a sentence that tells what the subject does or is. In the sentence 'The dog barks loudly', 'barks loudly' is the <blank>.",
+        "Blanks": [
+            "predicate",
+            "predicate"
+        ]
+    },
+    {
+        "Question": "In English grammar, a <blank> is a word that connects clauses or sentences. Examples include 'and', 'but', and 'or'. A <blank> is essential for creating complex sentences.",
+        "Blanks": [
+            "conjunction",
+            "conjunction"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "Question": "Which tense is used to express an action taking place at the time of speaking?",
+        "options": [
+            "A. Simple Present",
+            "B. Present Continuous",
+            "C. Present Perfect",
+            "D. Simple Past"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which tense is used to show an action that started in the past and is still continuing?",
+        "options": [
+            "A. Present Perfect",
+            "B. Past Continuous",
+            "C. Present Perfect Continuous",
+            "D. Future Continuous"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is the rule for forming negative sentences in the Simple Past tense?",
+        "options": [
+            "A. Subject + V2 + Object",
+            "B. Subject + does not + V1 + Object",
+            "C. Subject + didn't + V1 + Object",
+            "D. Subject + is/am/are + not + V1 + ing + Object"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Which tense is used to express an action that will be completed by a certain time in the future?",
+        "options": [
+            "A. Future Continuous",
+            "B. Future Perfect",
+            "C. Future Perfect Continuous",
+            "D. Simple Future"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Explain the use of the Present Perfect tense with an example.",
+        "Answer": "The Present Perfect tense is used to show an action that started in the past and has just finished. For example, 'She has written a letter.' This indicates that the action of writing the letter was completed recently."
+    },
+    {
+        "Question": "Describe the rule for forming interrogative sentences in the Past Continuous tense.",
+        "Answer": "To form interrogative sentences in the Past Continuous tense, use 'was/were' followed by the subject, then the base form of the verb with 'ing', and the object. For example, 'Was she writing a letter?'"
+    },
+    {
+        "Question": "The Simple Present tense is used to denote scientific facts, universal truths, and work done on a daily basis. For example, <blank> writes a letter. The Present Perfect Continuous tense shows the action which started in the past and is still continuing. For example, She <blank> been writing a letter.",
+        "Blanks": [
+            "She",
+            "has"
+        ]
+    },
+    {
+        "Question": "The Future Continuous tense is used to express an ongoing action in the future. For example, She <blank> be writing a letter. The Future Perfect tense is used to express an action that will be completed by a certain time in the future. For example, She <blank> have written a letter.",
+        "Blanks": [
+            "will",
+            "will"
+        ]
+    }
+]

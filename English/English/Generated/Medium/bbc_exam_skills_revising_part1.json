@@ -1,0 +1,54 @@
+[
+    {
+        "Question": "What is one of the key strategies mentioned for effective revision?",
+        "options": [
+            "Revising only the night before the exam",
+            "Listening to music while revising",
+            "Revising with a classmate and discussing mistakes",
+            "Ignoring notes taken in class"
+        ],
+        "correct_answer": "Revising with a classmate and discussing mistakes"
+    },
+    {
+        "Question": "According to the text, how long does Anna spend on revision each day?",
+        "options": [
+            "At least one hour",
+            "At least half an hour",
+            "Two hours",
+            "Fifteen minutes"
+        ],
+        "correct_answer": "At least half an hour"
+    },
+    {
+        "Question": "What is NOT recommended as a revision strategy in the text?",
+        "options": [
+            "Making a timetable and sticking to it",
+            "Memorizing everything",
+            "Rewriting notes",
+            "Discussing errors with classmates"
+        ],
+        "correct_answer": "Memorizing everything"
+    },
+    {
+        "Question": "Why is it important not to leave revision until the last minute?",
+        "Answer": "Leaving revision until the last minute can lead to stress and insufficient preparation. By starting early, students can better absorb the material, identify areas they need to focus on, and have time to clarify any doubts. This approach also allows for a more organized and effective revision process."
+    },
+    {
+        "Question": "How can revising with classmates benefit students?",
+        "Answer": "Revising with classmates can be beneficial as it allows students to discuss and clarify doubts, check each other's answers, and learn from each other's mistakes. This collaborative approach can enhance understanding and retention of the material."
+    },
+    {
+        "Question": "Rob suggests that students should not leave revision until the <blank>. He also advises to rewrite notes and use them as part of the <blank> process.",
+        "Blanks": [
+            "last minute",
+            "revision"
+        ]
+    },
+    {
+        "Question": "Anna revises daily, spending at least <blank> an hour on different areas of language such as listening, reading, vocabulary, and <blank>.",
+        "Blanks": [
+            "half",
+            "speaking"
+        ]
+    }
+]

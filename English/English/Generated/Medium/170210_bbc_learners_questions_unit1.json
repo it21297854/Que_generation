@@ -1,0 +1,64 @@
+[
+    {
+        "Question": "In the expression 'as...as', what part of speech is the first 'as'?",
+        "options": [
+            "A. Noun",
+            "B. Adverb",
+            "C. Conjunction",
+            "D. Preposition"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which of the following sentences correctly uses the 'as...as' structure?",
+        "options": [
+            "A. She is as tall than her brother.",
+            "B. He runs as fast as a cheetah.",
+            "C. This cake is as more delicious as that one.",
+            "D. I am as happier as you are."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "How can you make the 'as...as' expression negative?",
+        "options": [
+            "A. By adding 'not' before the first 'as'",
+            "B. By adding 'never' after the second 'as'",
+            "C. By replacing the second 'as' with 'than'",
+            "D. By using 'less' before the adjective"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "Question": "What is the function of the second 'as' in the 'as...as' expression when it relates to a following clause?",
+        "options": [
+            "A. Noun",
+            "B. Adverb",
+            "C. Conjunction",
+            "D. Preposition"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Explain how the 'as...as' structure is used in English.",
+        "Answer": "The 'as...as' structure is used to compare two things that are similar in some way. The first 'as' functions as an adverb and modifies the adjective or adverb that follows it. The second 'as' can function as a preposition when connected to a noun or pronoun, or as a conjunction when it relates to a following clause. This structure can also be made negative by placing 'not' before the first 'as'."
+    },
+    {
+        "Question": "Provide an example of a negative 'as...as' expression and explain its meaning.",
+        "Answer": "An example of a negative 'as...as' expression is 'He was not as smart as his sister.' This means that he is less smart compared to his sister. In negative expressions, the first 'as' can also be replaced with 'so', as in 'He was not so smart as his sister.'"
+    },
+    {
+        "Question": "The 'as...as' structure is used to compare things that are similar in <blank>. The first 'as' acts as an <blank> and modifies the adjective or adverb that follows.",
+        "Blanks": [
+            "proportion",
+            "adverb"
+        ]
+    },
+    {
+        "Question": "To make an 'as...as' expression negative, we put <blank> before the first 'as'. In negative expressions, the first 'as' can be replaced with <blank>.",
+        "Blanks": [
+            "not",
+            "so"
+        ]
+    }
+]
