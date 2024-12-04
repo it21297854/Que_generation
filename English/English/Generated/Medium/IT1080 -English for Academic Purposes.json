@@ -1,0 +1,85 @@
+[
+    {
+        "Question": "What is the primary purpose of InsAR technology in monitoring volcanoes?",
+        "options": [
+            "A. To provide visual observations of volcanoes",
+            "B. To detect movements beneath the surface using radar images",
+            "C. To predict weather changes around volcanoes",
+            "D. To measure the temperature of volcanic eruptions"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "What is the main challenge faced by scientists in predicting volcanic eruptions using InsAR?",
+        "options": [
+            "A. Lack of funding for satellite missions",
+            "B. Difficulty in interpreting radar images",
+            "C. Determining if volcanic unrest will lead to an eruption",
+            "D. Limited number of active volcanoes"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is the Biophilic Cities Network primarily focused on?",
+        "options": [
+            "A. Reducing greenhouse gas emissions",
+            "B. Increasing urbanization",
+            "C. Enhancing the connection between cities and nature",
+            "D. Promoting industrial development in cities"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is a key benefit of Work From Home (WFH) for employers?",
+        "options": [
+            "A. Increased commuting times",
+            "B. Higher operational expenses",
+            "C. Improved employee productivity",
+            "D. More distractions for employees"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "How did the COVID-19 pandemic affect food systems in Sri Lanka?",
+        "options": [
+            "A. Increased manpower for crop cultivation",
+            "B. Decreased food prices",
+            "C. Shortages in labor for food supply chain activities",
+            "D. Unaffected food distribution channels"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Explain the significance of the Biophilic Cities Network.",
+        "Answer": "The Biophilic Cities Network aims to integrate nature into urban environments, recognizing the importance of human connection with nature. It encourages cities to protect and restore natural environments, share successful strategies, and assist other cities in becoming more biophilic, ultimately improving urban living conditions and addressing climate change."
+    },
+    {
+        "Question": "Discuss the potential benefits of Work From Home (WFH) arrangements.",
+        "Answer": "WFH offers numerous benefits, including reduced commuting time and expenses, increased flexibility, and better work-life balance for employees. Employers benefit from lower operational costs, improved productivity, and employee satisfaction. Additionally, WFH can increase female labor force participation and reduce environmental impacts like carbon emissions."
+    },
+    {
+        "Question": "Describe the impact of the COVID-19 pandemic on food supply chains in Sri Lanka.",
+        "Answer": "The pandemic led to labor shortages in crop cultivation and food supply chain activities due to mobility restrictions. This caused disruptions in food manufacturing processes and increased post-harvest losses, particularly for perishable goods. These supply chain issues drove up food prices, affecting vulnerable populations."
+    },
+    {
+        "Question": "The Biophilic Cities Network aims to protect and restore <blank> within city boundaries and forge new links with the <blank> world wherever possible.",
+        "Blanks": [
+            "nature",
+            "natural"
+        ]
+    },
+    {
+        "Question": "InsAR technology relies on frequent observations and long-duration <blank> missions to provide data continuity for serious <blank> volcano modeling.",
+        "Blanks": [
+            "space",
+            "InsAR"
+        ]
+    },
+    {
+        "Question": "Work From Home (WFH) arrangements can lead to reduced <blank> emissions and less traffic <blank> due to decreased vehicular movements.",
+        "Blanks": [
+            "carbon",
+            "congestion"
+        ]
+    }
+]

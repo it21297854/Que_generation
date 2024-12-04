@@ -1,0 +1,78 @@
+[
+    {
+        "Question": "Which of the following sentences correctly uses the past perfect tense?",
+        "options": [
+            "A. She has gone to the store before I arrived.",
+            "B. She had gone to the store before I arrived.",
+            "C. She went to the store before I had arrived.",
+            "D. She goes to the store before I arrived."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of using conjunctions in a sentence?",
+        "options": [
+            "A. To describe nouns",
+            "B. To connect clauses or sentences",
+            "C. To express emotions",
+            "D. To modify verbs"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which of the following words is an example of an irregular verb?",
+        "options": [
+            "A. Walk",
+            "B. Jump",
+            "C. Go",
+            "D. Talk"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Which of the following sentences uses a metaphor?",
+        "options": [
+            "A. The sun was shining brightly.",
+            "B. Her smile was as bright as the sun.",
+            "C. Her smile was the sun.",
+            "D. She smiled brightly."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "What is the function of an adverb in a sentence?",
+        "options": [
+            "A. To modify a noun",
+            "B. To modify a verb, adjective, or other adverb",
+            "C. To connect phrases",
+            "D. To express a strong emotion"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Explain the difference between a simile and a metaphor.",
+        "Answer": "A simile is a figure of speech that compares two different things using the words 'like' or 'as', indicating a direct comparison. For example, 'Her smile is like the sun.' A metaphor, on the other hand, directly states that one thing is another, creating an implicit comparison, such as 'Her smile is the sun.'"
+    },
+    {
+        "Question": "Describe the role of a thesis statement in an essay.",
+        "Answer": "A thesis statement serves as the central argument or claim of an essay. It provides a clear and concise summary of the main point or claim that the writer intends to prove or discuss throughout the essay. Typically located at the end of the introduction, it guides the direction of the essay and helps the reader understand the purpose and scope of the writing."
+    },
+    {
+        "Question": "What is the importance of using transitional words in writing?",
+        "Answer": "Transitional words are crucial in writing because they help to connect ideas, sentences, and paragraphs smoothly. They guide the reader through the text, indicating relationships between ideas, such as cause and effect, contrast, or sequence. This enhances the coherence and flow of the writing, making it easier for the reader to follow the writer's argument or narrative."
+    },
+    {
+        "Question": "The <blank> of a sentence is the person, place, thing, or idea that is doing or being something. The <blank> is what the subject does or is.",
+        "Blanks": [
+            "subject",
+            "predicate"
+        ]
+    },
+    {
+        "Question": "In English grammar, a <blank> is a word that takes the place of a noun. An <blank> is a word that modifies a noun or pronoun.",
+        "Blanks": [
+            "pronoun",
+            "adjective"
+        ]
+    }
+]

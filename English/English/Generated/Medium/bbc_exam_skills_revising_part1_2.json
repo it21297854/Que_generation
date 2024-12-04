@@ -1,0 +1,89 @@
+[
+    {
+        "Question": "What is one of the key tips mentioned for effective revision?",
+        "options": [
+            "Leave revision until the last minute",
+            "Rewrite notes and use them for revision",
+            "Memorize everything",
+            "Ignore classmates' help"
+        ],
+        "correct_answer": "Rewrite notes and use them for revision"
+    },
+    {
+        "Question": "According to the text, how long does Anna spend on revision each day?",
+        "options": [
+            "15 minutes",
+            "30 minutes",
+            "1 hour",
+            "2 hours"
+        ],
+        "correct_answer": "30 minutes"
+    },
+    {
+        "Question": "What is one benefit of revising with a classmate according to Student 2?",
+        "options": [
+            "It helps to memorize everything",
+            "It allows for more social time",
+            "It helps to discuss mistakes and errors",
+            "It reduces the amount of work"
+        ],
+        "correct_answer": "It helps to discuss mistakes and errors"
+    },
+    {
+        "Question": "What should you avoid doing during revision, as per the advice given?",
+        "options": [
+            "Listening in class",
+            "Making a timetable",
+            "Memorizing everything",
+            "Discussing with classmates"
+        ],
+        "correct_answer": "Memorizing everything"
+    },
+    {
+        "Question": "What is a suggested method for planning revision?",
+        "options": [
+            "Ignore making a timetable",
+            "Plan revision randomly",
+            "Make a timetable and stick to it",
+            "Only revise when you feel like it"
+        ],
+        "correct_answer": "Make a timetable and stick to it"
+    },
+    {
+        "Question": "What is the main purpose of rewriting notes according to the text?",
+        "Answer": "The main purpose of rewriting notes is to use them as part of your revision process. This helps reinforce the material and ensures that you have a clear and organized set of information to study from."
+    },
+    {
+        "Question": "How does revising with a classmate benefit students, as mentioned in the text?",
+        "Answer": "Revising with a classmate benefits students by allowing them to check each other's answers and discuss any mistakes or errors. This collaborative approach can enhance understanding and retention of the material."
+    },
+    {
+        "Question": "What are some of the areas Anna focuses on during her daily revision?",
+        "Answer": "Anna focuses on listening, reading, vocabulary, and speaking during her daily revision. She dedicates at least half an hour each day to these different areas of language learning."
+    },
+    {
+        "Question": "Why is it important not to leave revision until the last minute?",
+        "Answer": "It is important not to leave revision until the last minute because effective revision requires careful planning and consistent effort over time. Last-minute cramming can lead to stress and may not be as effective in retaining information."
+    },
+    {
+        "Question": "It's important to not leave revision until the <blank> minute. Rewrite your notes and use them as part of your <blank>.",
+        "Blanks": [
+            "last",
+            "revision"
+        ]
+    },
+    {
+        "Question": "Anna revises every day for at least <blank> an hour, focusing on listening, reading, vocabulary, and <blank>.",
+        "Blanks": [
+            "half",
+            "speaking"
+        ]
+    },
+    {
+        "Question": "Revising with a classmate helps to check each other's answers and discuss <blank> or <blank>.",
+        "Blanks": [
+            "mistakes",
+            "errors"
+        ]
+    }
+]

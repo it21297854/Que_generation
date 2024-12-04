@@ -1,0 +1,99 @@
+[
+    {
+        "Question": "What was the issue with the car that was fixed?",
+        "options": [
+            "The engine",
+            "The gears",
+            "The tires",
+            "The brakes"
+        ],
+        "correct_answer": "The gears"
+    },
+    {
+        "Question": "What did Claire do after running for half an hour?",
+        "options": [
+            "She stopped to check her watch",
+            "She continued running",
+            "She started walking",
+            "She took a break"
+        ],
+        "correct_answer": "She stopped to check her watch"
+    },
+    {
+        "Question": "What do most police officers wear to work?",
+        "options": [
+            "Casual clothes",
+            "Suits",
+            "Uniforms",
+            "Sportswear"
+        ],
+        "correct_answer": "Uniforms"
+    },
+    {
+        "Question": "What was the reason for the teacher standing next to the students?",
+        "options": [
+            "The students were talking",
+            "The students were sleeping",
+            "The students were reading",
+            "The students were writing"
+        ],
+        "correct_answer": "The students were talking"
+    },
+    {
+        "Question": "What did John do this morning?",
+        "options": [
+            "Booked a hotel",
+            "Booked a flight",
+            "Went shopping",
+            "Visited a friend"
+        ],
+        "correct_answer": "Booked a flight"
+    },
+    {
+        "Question": "Describe the situation when the narrator was making dinner.",
+        "Answer": "Last night, while the narrator was making dinner, their mom called, which led them to forget about the roast in the oven, resulting in everything being burned."
+    },
+    {
+        "Question": "What was the routine of Wendy every afternoon?",
+        "Answer": "Wendy phones her boyfriend every afternoon as part of her routine."
+    },
+    {
+        "Question": "How did the narrator feel about living in a foreign country initially, and what changed?",
+        "Answer": "Initially, living in a foreign country was strange for the narrator, but over time, they got used to it."
+    },
+    {
+        "Question": "Last night, when I <blank> dinner, my mom <blank>. I totally forgot about the roast in the oven, and I burned everything.",
+        "Blanks": [
+            "was making",
+            "called"
+        ]
+    },
+    {
+        "Question": "Most police officers <blank> uniforms to work. Only detectives in higher positions <blank> their street clothes.",
+        "Blanks": [
+            "wear",
+            "wear"
+        ]
+    },
+    {
+        "Question": "After Claire <blank> for half an hour, she suddenly <blank> to check her watch.",
+        "Blanks": [
+            "had been running",
+            "stopped"
+        ]
+    },
+    {
+        "Question": "I <blank> smoking three years ago. Before that, I <blank> for over a decade.",
+        "Blanks": [
+            "stopped",
+            "had been smoking"
+        ]
+    },
+    {
+        "Question": "In our history lesson yesterday my friend and I <blank> to each other and we <blank> attention.",
+        "Blanks": [
+            "were talking",
+            "were not paying"
+        ]
+    }
+]

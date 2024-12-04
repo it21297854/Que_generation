@@ -1,0 +1,103 @@
+[
+    {
+        "Question": "What did I totally forget about while making dinner last night?",
+        "options": [
+            "The roast in the oven",
+            "The phone call",
+            "The dessert",
+            "The salad"
+        ],
+        "correct_answer": "The roast in the oven"
+    },
+    {
+        "Question": "What do most police officers wear to work?",
+        "options": [
+            "Casual clothes",
+            "Uniforms",
+            "Suits",
+            "Sportswear"
+        ],
+        "correct_answer": "Uniforms"
+    },
+    {
+        "Question": "What was the problem with the car?",
+        "options": [
+            "The tires",
+            "The gears",
+            "The engine",
+            "The brakes"
+        ],
+        "correct_answer": "The gears"
+    },
+    {
+        "Question": "How often do we normally get together?",
+        "options": [
+            "Every Sunday",
+            "Every second Sunday",
+            "Once a month",
+            "Once a year"
+        ],
+        "correct_answer": "Every second Sunday"
+    },
+    {
+        "Question": "What did John book this morning?",
+        "options": [
+            "A hotel",
+            "A car",
+            "A flight",
+            "A restaurant"
+        ],
+        "correct_answer": "A flight"
+    },
+    {
+        "Question": "What happened after Claire had been running for half an hour?",
+        "Answer": "After Claire had been running for half an hour, she suddenly stopped to check her watch."
+    },
+    {
+        "Question": "Describe the situation in the history lesson yesterday.",
+        "Answer": "In the history lesson yesterday, my friend and I were talking to each other and were not paying attention. Suddenly, our history teacher was standing right next to us."
+    },
+    {
+        "Question": "What does Wendy do every afternoon?",
+        "Answer": "Wendy phones her boyfriend every afternoon."
+    },
+    {
+        "Question": "What was strange at first but eventually got used to?",
+        "Answer": "Living in a foreign country was strange at first, but we got used to it."
+    },
+    {
+        "Question": "Last night, when I was <blank> dinner, my mom <blank>. I totally forgot about the roast in the oven, and I burned everything.",
+        "Blanks": [
+            "making",
+            "called"
+        ]
+    },
+    {
+        "Question": "Most police officers <blank> uniforms to work. Only detectives in higher positions <blank> their street clothes.",
+        "Blanks": [
+            "wear",
+            "wear"
+        ]
+    },
+    {
+        "Question": "His family <blank> to Singapore when he was three, then they <blank> back again when he started high school.",
+        "Blanks": [
+            "moved",
+            "moved"
+        ]
+    },
+    {
+        "Question": "After Claire had been <blank> for half an hour, she suddenly <blank> to check her watch.",
+        "Blanks": [
+            "running",
+            "stopped"
+        ]
+    },
+    {
+        "Question": "I <blank> smoking three years ago. Before that, I had been <blank> for over a decade.",
+        "Blanks": [
+            "stopped",
+            "smoking"
+        ]
+    }
+]

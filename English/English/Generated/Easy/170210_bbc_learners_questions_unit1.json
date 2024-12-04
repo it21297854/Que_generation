@@ -1,0 +1,64 @@
+[
+    {
+        "Question": "What is the function of the first 'as' in the 'as...as' expression?",
+        "options": [
+            "A. Noun",
+            "B. Adverb",
+            "C. Verb",
+            "D. Conjunction"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "In the expression 'as good a dancer as Michael Jackson', what is the role of the second 'as'?",
+        "options": [
+            "A. Adjective",
+            "B. Noun",
+            "C. Preposition",
+            "D. Verb"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "How can you make an 'as...as' expression negative?",
+        "options": [
+            "A. Add 'not' before the first 'as'",
+            "B. Add 'no' before the second 'as'",
+            "C. Add 'never' before the adjective",
+            "D. Add 'none' after the adjective"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "Question": "Which of the following is a correct idiomatic expression?",
+        "options": [
+            "A. As tall as a mountain",
+            "B. As fast as a turtle",
+            "C. As quiet as a mouse",
+            "D. As slow as lightning"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Explain the role of adjectives in 'as...as' expressions.",
+        "Answer": "In 'as...as' expressions, adjectives are placed between the two 'as' words to describe the degree or quality being compared. The first 'as' functions as an adverb to modify the adjective, while the second 'as' can function as a preposition or conjunction depending on the sentence structure."
+    },
+    {
+        "Question": "How can 'as...as' expressions be used to compare nouns?",
+        "Answer": "When comparing nouns using 'as...as' expressions, it is important to include an article before the noun. For example, 'as good a dancer as Michael Jackson' includes the article 'a' before 'dancer'. This structure helps to clearly compare the quality or characteristic of the noun."
+    },
+    {
+        "Question": "To make an 'as...as' expression negative, you can put <blank> before the first 'as'. For example: He was <blank> as smart as his sister.",
+        "Blanks": [
+            "not",
+            "not"
+        ]
+    },
+    {
+        "Question": "In idiomatic expressions, 'as...as' is often used. For example: I was as <blank> as a sheet when I saw the ghost, or be as <blank> as a mouse in the library.",
+        "Blanks": [
+            "white",
+            "quiet"
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "Question": "What is the primary purpose of a gap analysis in professional development planning?",
+        "options": [
+            "A. To evaluate financial performance",
+            "B. To compare the current state with the desired state",
+            "C. To conduct market research",
+            "D. To analyze customer feedback"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a quadrant of the Johari Window?",
+        "options": [
+            "A. Open Area",
+            "B. Blind Spot",
+            "C. Hidden Area",
+            "D. Secret Zone"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "Question": "What is a key characteristic of the 'Forming' stage in Tuckman's team development model?",
+        "options": [
+            "A. Conflict and disagreement",
+            "B. High performance and productivity",
+            "C. Team members getting to know each other",
+            "D. Team disbandment"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "Question": "Which of the following is a positive impact of e-learning?",
+        "options": [
+            "A. Limited access to resources",
+            "B. Increased flexibility in learning",
+            "C. Lack of personal interaction",
+            "D. Technical difficulties"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "What is the main purpose of the Value Proposition Canvas?",
+        "options": [
+            "A. To outline a company's financial plan",
+            "B. To map out customer segments and their needs",
+            "C. To design a marketing strategy",
+            "D. To develop a product's technical specifications"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "Question": "Describe how gap analysis will help you in professional development planning.",
+        "Answer": "Gap analysis helps in professional development planning by identifying the differences between the current skills and the desired skills needed for a particular profession. It allows individuals to focus on specific areas for improvement and create a structured plan to acquire the necessary skills."
+    },
+    {
+        "Question": "Explain the purpose of the Johari Window.",
+        "Answer": "The Johari Window is a tool used to improve self-awareness and mutual understanding among individuals within a group. It helps in identifying what is known and unknown to oneself and others, thereby facilitating better communication and personal development."
+    },
+    {
+        "Question": "Describe the positive and negative impacts of e-learning.",
+        "Answer": "E-learning offers flexibility and accessibility, allowing learners to access materials at their own pace and convenience. However, it can also lead to a lack of personal interaction and motivation, as well as technical challenges that may hinder the learning experience."
+    },
+    {
+        "Question": "Is a retail shop owner an entrepreneur? Justify your answer.",
+        "Answer": "Yes, a retail shop owner can be considered an entrepreneur as they take on the risks of starting and managing a business to earn profits. They often innovate in terms of product offerings, customer service, and business strategies to stay competitive in the market."
+    },
+    {
+        "Question": "The <blank> Window is a tool used to enhance self-awareness and improve communication within a group. It consists of four quadrants: Open Area, Blind Spot, Hidden Area, and <blank> Area.",
+        "Blanks": [
+            "Johari",
+            "Unknown"
+        ]
+    },
+    {
+        "Question": "During the COVID-19 pandemic, the rise of <blank> learning allowed education to continue remotely. However, it also highlighted challenges such as <blank> difficulties and lack of personal interaction.",
+        "Blanks": [
+            "e-learning",
+            "technical"
+        ]
+    },
+    {
+        "Question": "In Tuckman's team development model, the stages are Forming, Storming, Norming, and <blank>. Each stage has its own characteristic behaviors, such as conflict in the Storming stage and high performance in the <blank> stage.",
+        "Blanks": [
+            "Performing",
+            "Performing"
+        ]
+    }
+]

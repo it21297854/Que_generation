@@ -1,0 +1,78 @@
+[
+    {
+        "Question": "Which tense is used to express an action that started in the past and is still continuing?",
+        "options": [
+            "Simple Present",
+            "Present Perfect Continuous",
+            "Past Perfect",
+            "Future Perfect"
+        ],
+        "correct_answer": "Present Perfect Continuous"
+    },
+    {
+        "Question": "What is the rule for forming negative sentences in the Simple Past tense?",
+        "options": [
+            "Subject + V2 + Object",
+            "Subject + does not + V1 + Object",
+            "Subject + didn't + V1 + Object",
+            "Subject + is/am/are + not + V1 + ing + Object"
+        ],
+        "correct_answer": "Subject + didn't + V1 + Object"
+    },
+    {
+        "Question": "Which tense is used to denote an action that will be completed by a certain time in the future?",
+        "options": [
+            "Future Continuous",
+            "Future Perfect",
+            "Future Perfect Continuous",
+            "Simple Future"
+        ],
+        "correct_answer": "Future Perfect"
+    },
+    {
+        "Question": "Which of the following is an example of the Present Continuous tense?",
+        "options": [
+            "She writes a letter.",
+            "She has written a letter.",
+            "She is writing a letter.",
+            "She will write a letter."
+        ],
+        "correct_answer": "She is writing a letter."
+    },
+    {
+        "Question": "What is the rule for forming interrogative sentences in the Past Perfect tense?",
+        "options": [
+            "Had + Subject + V3 + Object",
+            "Will/Shall + Subject + Verb (Ist form) + Object",
+            "Subject + had been + V1 + ing + Object",
+            "Subject + was/were + V1 + ing + Object"
+        ],
+        "correct_answer": "Had + Subject + V3 + Object"
+    },
+    {
+        "Question": "Explain the use of the Simple Present tense with examples.",
+        "Answer": "The Simple Present tense is used to denote scientific facts, universal truths, and actions done on a daily basis. For example, 'The sun rises in the east' is a universal truth, and 'She writes a letter' is an action done regularly."
+    },
+    {
+        "Question": "Describe the difference between Future Continuous and Future Perfect Continuous tenses.",
+        "Answer": "The Future Continuous tense is used to express an ongoing action in the future, such as 'She will be writing a letter.' The Future Perfect Continuous tense emphasizes the duration of an activity that will be in progress before another time or event in the future, such as 'She will have been writing a letter for two hours by the time you arrive.'"
+    },
+    {
+        "Question": "What is the rule for forming negative sentences in the Present Perfect tense?",
+        "Answer": "In the Present Perfect tense, negative sentences are formed using the rule: Subject + has/have + not + V3 + Object. For example, 'She has not written a letter.'"
+    },
+    {
+        "Question": "The Simple Past tense is used to indicate an action completed in the past. For example, 'She <blank> a letter.' In negative sentences, we use 'didn't' followed by the base form of the verb, as in 'She <blank> write a letter.'",
+        "Blanks": [
+            "wrote",
+            "didn't"
+        ]
+    },
+    {
+        "Question": "The Future Perfect tense is used to express an action that will be completed by a certain time in the future. For example, 'She will <blank> written a letter by tomorrow.' In negative sentences, it is formed as 'She will not <blank> written a letter.'",
+        "Blanks": [
+            "have",
+            "have"
+        ]
+    }
+]
